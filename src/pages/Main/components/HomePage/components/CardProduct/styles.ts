@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { ITitle } from './types';
-export const Root = styled.article`
+export const Root = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: center;
